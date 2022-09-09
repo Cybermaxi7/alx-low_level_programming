@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*
- *    * Description: 'print string using puts'
+/**
+ * main - print string using puts
+ * Return: return zero
  */
 int main(void)
 {
