@@ -1,5 +1,17 @@
 #include <stdio.h>
-/*the main function*/
+/**
+ *
+ *  * main - Entry point
+ *
+ *   * 
+ *
+ *    * Description: 'Program to print'
+ *
+ *     * 
+ *
+ *      * Return: Always 0 (Success)
+ *
+ *       */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
