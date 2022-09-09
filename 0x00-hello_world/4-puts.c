@@ -1,17 +1,7 @@
 #include <stdio.h>
-/**
- *
- *  * main - Entry point
- *
- *   * 
- *
- *    * Description: 'Program to print'
- *
- *     * 
- *
- *      * Return: Always 0 (Success)
- *
- *       */
+/*
+ *    * Description: 'print string using puts'
+ *    */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
