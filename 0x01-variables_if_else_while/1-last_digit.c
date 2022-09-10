@@ -11,7 +11,7 @@ int main(void)
 	int n;
 	int last;
 
-	srand(time(0);
+	srand(time(0));
 	n = rand() - RADN_MAX / 2;
 	last = n % 10;
 
