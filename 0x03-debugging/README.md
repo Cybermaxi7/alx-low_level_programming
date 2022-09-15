@@ -1,0 +1,1 @@
+echo debugging in c 
