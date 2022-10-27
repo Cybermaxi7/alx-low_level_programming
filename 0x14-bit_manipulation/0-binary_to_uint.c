@@ -1,5 +1,5 @@
 /*
- * Auth: Brennan D Baraban
+ * Auth: Agbe Moses (Cybermaxi)
  * File: 0-binary_to_uint.c
  */
 
